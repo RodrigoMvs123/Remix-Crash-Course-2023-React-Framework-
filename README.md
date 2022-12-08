@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=RBYJTop1e-g
 
 https://github.com/academind/remix-practical-guide-course-resources.git
 
+https://raw.githubusercontent.com/RodrigoMvs123/Remix-Crash-Course-2023-React-Framework-/main/README.md
+
+
+
 https://reactjs.org/
 https://remix.run/
 https://nodejs.org/en/
